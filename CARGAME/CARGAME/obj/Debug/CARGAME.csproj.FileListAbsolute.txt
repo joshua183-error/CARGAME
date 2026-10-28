@@ -1,0 +1,21 @@
+C:\Users\LAB\Desktop\CARGAME\CARGAME\bin\Debug\CARGAME.exe.config
+C:\Users\LAB\Desktop\CARGAME\CARGAME\obj\Debug\CARGAME.csprojResolveAssemblyReference.cache
+C:\Users\LAB\Desktop\CARGAME\CARGAME\obj\Debug\CarGame.Form1.resources
+C:\Users\LAB\Desktop\CARGAME\CARGAME\obj\Debug\CARGAME.Properties.Resources.resources
+C:\Users\LAB\Desktop\CARGAME\CARGAME\obj\Debug\CARGAME.csproj.GenerateResource.Cache
+C:\Users\LAB\Desktop\CARGAME\CARGAME\bin\Debug\CARGAME.exe
+C:\Users\LAB\Desktop\CARGAME\CARGAME\bin\Debug\CARGAME.pdb
+C:\Users\LAB\Desktop\CARGAME\CARGAME\obj\Debug\CARGAME.exe
+C:\Users\LAB\Desktop\CARGAME\CARGAME\obj\Debug\CARGAME.pdb
+C:\Users\LAB\Desktop\CARGAME\CARGAME\CARGAME\bin\Debug\CARGAME.exe.config
+C:\Users\LAB\Desktop\CARGAME\CARGAME\CARGAME\bin\Debug\CARGAME.exe
+C:\Users\LAB\Desktop\CARGAME\CARGAME\CARGAME\bin\Debug\CARGAME.pdb
+C:\Users\LAB\Desktop\CARGAME\CARGAME\CARGAME\obj\Debug\CARGAME.csprojResolveAssemblyReference.cache
+C:\Users\LAB\Desktop\CARGAME\CARGAME\CARGAME\obj\Debug\CarGame.Form1.resources
+C:\Users\LAB\Desktop\CARGAME\CARGAME\CARGAME\obj\Debug\CARGAME.Properties.Resources.resources
+C:\Users\LAB\Desktop\CARGAME\CARGAME\CARGAME\obj\Debug\CARGAME.csproj.GenerateResource.Cache
+C:\Users\LAB\Desktop\CARGAME\CARGAME\CARGAME\obj\Debug\CARGAME.exe
+C:\Users\LAB\Desktop\CARGAME\CARGAME\CARGAME\obj\Debug\CARGAME.pdb
+C:\Users\LAB\Desktop\J Project\CARGAME\CARGAME\CARGAME\bin\Debug\CARGAME.exe.config
+C:\Users\LAB\Desktop\J Project\CARGAME\CARGAME\CARGAME\obj\Debug\CARGAME.exe
+C:\Users\LAB\Desktop\J Project\CARGAME\CARGAME\CARGAME\obj\Debug\CARGAME.pdb
